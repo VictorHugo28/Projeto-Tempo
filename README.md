@@ -1,4 +1,5 @@
-<img src="![Previa_Imagem](https://github.com/user-attachments/assets/37b297af-e6bd-4194-81b4-4bf934a7da7e)" alt="Previsão do Tempo">
+
+![Previa_Imagem](https://github.com/user-attachments/assets/3c9594fb-3f80-4e32-9e59-013e96b8356a)
 
 Descrição do Projeto
 🌍 Aplicativo de Clima é uma ferramenta interativa que coloca informações meteorológicas ao seu alcance, permitindo que você consulte as condições do tempo em qualquer lugar do mundo! Com um design moderno e acessível, você descobre rapidamente se precisa de um guarda-chuva ou de óculos de sol.
